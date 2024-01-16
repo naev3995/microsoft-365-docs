@@ -111,7 +111,7 @@ This will control all users' ability to acquire the following add-ins from the s
   
 Support for turning on/off the Office Store is available in the following versions:
   
-- Windows: 16.0.9001 - Currently available.
+- Windows: 16.0.17126 - Currently available.
     
 - Mac: 16.10.18011401 - Currently available.
     
